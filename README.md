@@ -87,7 +87,8 @@ It is responsible for support and stability of y axis frame.and also z axis.
 # Y-Axis Base :
 The Y-axis base is responsible for providing stability and support to the entire printer's structure,including the Y-axis frame, the print bed, and the printed object.
 ## Z-Axis assembly:
-![image](https://github.com/23011258/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/139842204/f40fe416-d68b-478a-b2b2-65b7055e43a9)
+![image](https://github.com/23011258/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/139842204/4dc11c15-ddf4-466a-b445-bca0bab48cc9)
+
 
 # Z-Axis 
 Z-Axis Rod :
@@ -109,7 +110,8 @@ The primary purpose of the z-axis top cover is to prevent dust and debris from s
 motor is help to movement of the print head along x,y,z axes.
 ## Completed assembly
 
-![image](https://github.com/23011258/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/139842204/8fd5a153-d7b3-4a7c-a80d-4a219f8be756)
+![image](https://github.com/23011258/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/139842204/88cc7b54-6120-423d-8ee3-ed50a1bd53ac)
+
 
 # Frame :
 rigid structure that holds all the other components of the printer.
