@@ -49,7 +49,8 @@
 
 ### OUTPUT
 ## X-Axis assembly:
-![image](https://github.com/23011258/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/139842204/3d6e3b76-90a4-483d-853f-289e5f5ea3f3)
+![image](https://github.com/23011258/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/139842204/ba1808fa-4b2e-4aba-a272-3969d5b7775b)
+
 
 # Smooth Rod :
 It is guide rail component made up of hardened-steel or chrome plated steel .it smoothness ensures precise and consistent movement which is needed to produce accurate and high quality models.
